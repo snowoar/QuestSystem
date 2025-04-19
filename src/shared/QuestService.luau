@@ -1,0 +1,4 @@
+
+local QuestService = {}
+
+return QuestService
