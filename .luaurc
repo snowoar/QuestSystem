@@ -1,0 +1,6 @@
+{
+  "aliases": {
+        "lune": "~/.lune/.typedefs/0.9.3/",
+        "frktest": "lune_packages/.pesde/itsfrank+frktest/0.0.2/frktest/src/"
+  }
+}
